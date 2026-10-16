@@ -1,27 +1,24 @@
-# Character Manager — TP3 (Java Visual SIH-6406)
-
-Program ini dibuat untuk mengelola karakter RPG sederhana menggunakan Java.  
-Fitur yang diimplementasikan meliputi atribut dasar (nama, level, tipe, HP, mana), metode level up, serta pengecekan kondisi hidup (isAlive).  
-Project ini merupakan bagian dari Tugas Praktik 3 (TP3) mata kuliah Java Visual.
-
-## Screenshot Output
-![Output Program](D:\JAVAVISUAL\AP3\Screenshot ap3.png)
-
-## Struktur Folder Project
-AP3/
-├── src/
-│    └── com/
-│         └── unpri/
-│              └── charactermanager/
-│                   └── model/
-│                        ├── CharacterType.java
-│                        ├── Character.java
-│                        └── Main.java
-├── bin/
-├── screenshot.png
-└── README.md
 
 ## Identitas
-**Nama:** Karyn Natashia Siregar
-**NIM:** [253303621220]  
-**Link Bagian D:** [[JavaVisual_TP03_[253303621220]_[Karyn Natashia Siregar].docx](https://github.com/user-attachments/files/33435437/JavaVisual_TP03_.253303621220._.Karyn.Natashia.Siregar.docx)]
+**Nama:** Karyn Natashia Siregar  
+**NIM:** 253303621220  
+**Kelas:** Semester 3 Pagi A 
+
+---
+
+# TP5
+
+## Fitur Baru
+- Implementasi method `countByType()` untuk menghitung jumlah karakter berdasarkan tipe.  
+- Eksperimen reference: demonstrasi perbedaan antara reference dan primitive value.  
+
+## Screenshot Output CRUD + Reference
+![Output Program](D:\JAVAVISUAL\AP3\Screenshot Ap6.png)
+
+## Penjelasan Fitur Bagian C
+Fitur analitik ditambahkan untuk menghitung jumlah karakter per tipe menggunakan `countByType()`.  
+Method ini memanfaatkan `HashMap` untuk menyimpan jumlah tiap tipe karakter, sehingga memudahkan analisis data karakter yang sudah dibuat.  
+
+## Link Bagian D (Google Docs)
+[JavaVisual_TP05_253303621220_Karyn Natashia Siregar]([JavaVisual_TP05_[253303621220]_[Karyn Natashia Siregar].docx](https://github.com/user-attachments/files/33546686/JavaVisual_TP05_.253303621220._.Karyn.Natashia.Siregar.docx)
+)  
